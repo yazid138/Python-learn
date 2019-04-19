@@ -1,2 +1,2 @@
-# Python
-Saya ingin mempublikasikan kinerja saya terhadap bahasa pemrograman Python
+# Python-learn
+Saya ingin mempublikasikan hasil belajar saya untuk bahasa pemrograman Python
